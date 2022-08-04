@@ -1,0 +1,67 @@
+#Etappe	dist	alt	sleep	name
+1	0	521	1	Marienplatz
+1	22.8	561	0	Kloster Schäftlarn
+2	0	574	1	Wolfratshausen
+2	26.6	645	0	Bad Tölz
+3	0	679 	1	Lenggries
+3	6.8	1540	0	Brauneck
+4	0	1327	1	Tutzinger Hütte
+4	9.4	786	0	Jachenau
+5	0	792	1	Vorderriß
+5	10.8	928	0	Hinterriß
+5	20	1399	0	Kleiner Ahornboden
+6	0	1765	1	Karwendelhaus
+6	3.1	2749	0	Birkkarspitze
+6	9.5	1220	0	Kastenalm
+7	0	1765	1	Hallerangeralm
+7	7.2	1287	0	St. Magdalena
+8	0	574	1	Innsbruck
+9	0	2610	1	Glungezer Hütte
+9	10.7	1376	0	Voldertalhütte
+9	19.6	2479	0	Naviser Jöchl
+10	0	2019	1	Lizumer Hütte
+10	3.5	2743	0	Geierjoch
+11	0	2316	1	Tuxer-Joch-Haus
+11	7.1	2904	0	Friesenbergscharte
+11	11.9	2389	0	Olpererhütte
+12	0	1805	1	Dominikushütte
+12	7	2251	0	Pfitscher Joch
+13	0	1565	1	Stein
+13	7	2644	0	Gliderschartl
+14	0	1277	1	Pfunders
+14	12.2	755	0	Niedervintl
+14	20.5	1832	0	Roner Hütte
+15	0	1925	1	Kreuzwiesen Alm
+15	15.2	2006	0	Würzjoch
+15	19.2	2357	0	Peitlerscharte
+16	0	2301	1	Schlüterhütte
+16	7.1	2720	0	Nives-Scharte
+17	0	2475	1	Puezhütte
+17	7.1	2125	0	Grödner Joch
+18	0	2587	1	Rifugio Pisciadù
+18	4.3	3152	0	Piz Boè
+18	9	2239	0	Passo Pordoi
+19	0	2436	1	Rifugio Viel Dal Pan
+19	6.6	2056	0	Passo Fedaia
+20	0	979	1	Alleghe
+20	7.9	2132	0	Lago Coldai
+21	0	2260	1	Rifugio Tissi
+21	5.7	1714	0	Rifugio Vazzoler
+21	14.4	1834	0	Rifugio Bruto Carestiato
+22	0	1605	1	Rifugio San Sebastiano
+22	12.8	2402	0	Forcella De Zita Sud
+23	0	1632	1	Rifugio Pian De Fontana
+23	5.4	2262	0	Forcella Del Marmol
+24	0	1493	1	Rifugio 7° Alpini
+24	9.2	541	0	Bolzano Bellunese
+25	0	400	1	Belluno
+26	0	1764	1	Rifugio Col Visentin
+26	17.4	250	0	Revine
+27	0	303	1	Agriturismo Le Noci
+27	4.3	170	0	Molinetto Della Croda
+28	0	70	1	Ponte Della Priula
+29	0	5	1	Bocca Callalta
+29	15.8	3	0	Musile Di Piave
+30	0	2	1	Jesolo
+30	11.2	0	0	Adria Strand
+31	0	0	1	Markusplatz

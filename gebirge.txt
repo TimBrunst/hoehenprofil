@@ -1,0 +1,8 @@
+#stop	height	name
+113	1800	BayrischeVoralpen
+166	3000	Karwendel
+282	900	ZentralAlpen
+373	1200	SellaGruppe
+439	2600	SüdDolomiten
+468	2000	Nevegal
+999	500	Venezien
